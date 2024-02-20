@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-tasks = ["baz", "ball", "cricket"]
+tasks = ["baz", "ball", "cricket","football"]
 # Create your views here.
 
 def index(request):
